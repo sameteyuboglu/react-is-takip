@@ -1,0 +1,248 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "position": "FrontEnd",
+      "company": "General Company",
+      "location": "Burası",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "01/01/2023"
+    },
+    {
+      "id": "2",
+      "position": "Backend Developer",
+      "company": "Tech Solutions",
+      "location": "Şehir X",
+      "status": "Devam ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "15/02/2023"
+    },
+    {
+      "id": "3",
+      "position": "UI/UX Designer",
+      "company": "Creative Designs",
+      "location": "Şehir Y",
+      "status": "Red edildi",
+      "type": "Tam Zamanlı",
+      "date": "10/03/2023"
+    },
+    {
+      "id": "4",
+      "position": "Full Stack Developer",
+      "company": "Web Solutions Inc.",
+      "location": "Şehir Z",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "date": "05/04/2023"
+    },
+    {
+      "id": "5",
+      "position": "Data Analyst",
+      "company": "Data Analytics Co.",
+      "location": "Şehir W",
+      "status": "Devam ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "20/05/2023"
+    },
+    {
+      "id": "6",
+      "position": "FrontEnd Developer",
+      "company": "Tech Innovations",
+      "location": "Şehir V",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "date": "15/06/2023"
+    },
+    {
+      "id": "7",
+      "position": "Product Manager",
+      "company": "Product Excellence Ltd.",
+      "location": "Şehir U",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "date": "10/07/2023"
+    },
+    {
+      "id": "8",
+      "position": "Graphic Designer",
+      "company": "Artistic Creations",
+      "location": "Şehir T",
+      "status": "Devam ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "25/08/2023"
+    },
+    {
+      "id": "9",
+      "position": "Software Engineer",
+      "company": "Tech Innovations",
+      "location": "Şehir S",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "date": "20/09/2023"
+    },
+    {
+      "id": "10",
+      "position": "Data Scientist",
+      "company": "Data Analytics Co.",
+      "location": "Şehir R",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "date": "15/10/2023"
+    },
+    {
+      "id": "11",
+      "position": "FrontEnd Developer",
+      "company": "General Company",
+      "location": "Burası",
+      "status": "Devam ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "01/01/2023"
+    },
+    {
+      "id": "12",
+      "position": "Backend Developer",
+      "company": "Tech Solutions",
+      "location": "Şehir X",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "date": "15/02/2023"
+    },
+    {
+      "id": "13",
+      "position": "UI/UX Designer",
+      "company": "Creative Designs",
+      "location": "Şehir Y",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "date": "10/03/2023"
+    },
+    {
+      "id": "14",
+      "position": "Full Stack Developer",
+      "company": "Web Solutions Inc.",
+      "location": "Şehir Z",
+      "status": "Devam ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "05/04/2023"
+    },
+    {
+      "id": "15",
+      "position": "Data Analyst",
+      "company": "Data Analytics Co.",
+      "location": "Şehir W",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "date": "20/05/2023"
+    },
+    {
+      "id": "16",
+      "position": "FrontEnd Developer",
+      "company": "Tech Innovations",
+      "location": "Şehir V",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "date": "15/06/2023"
+    },
+    {
+      "id": "17",
+      "position": "Product Manager",
+      "company": "Product Excellence Ltd.",
+      "location": "Şehir U",
+      "status": "Devam ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "10/07/2023"
+    },
+    {
+      "id": "18",
+      "position": "Graphic Designer",
+      "company": "Artistic Creations",
+      "location": "Şehir T",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "date": "25/08/2023"
+    },
+    {
+      "id": "19",
+      "position": "Software Engineer",
+      "company": "Tech Innovations",
+      "location": "Şehir S",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "date": "20/09/2023"
+    },
+    {
+      "id": "20",
+      "position": "Data Scientist",
+      "company": "Data Analytics Co.",
+      "location": "Şehir R",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "date": "15/10/2023"
+    },
+    {
+      "position": "qwdqd",
+      "company": "qwd",
+      "location": "qwd",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "id": "dd9cacc8-be50-4af1-bca4-15af95652756"
+    },
+    {
+      "position": "qwd",
+      "company": "qwd",
+      "location": "qwd",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "id": "4b18d971-fb0d-4bdb-a120-198e5816dc8d"
+    },
+    {
+      "position": "wefwe",
+      "company": "wef",
+      "location": "wef",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "id": "5b4ecbca-da13-439b-811c-d85ac269648d"
+    },
+    {
+      "position": "wef",
+      "company": "wef",
+      "location": "wef",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "id": "13593be7-1dc2-4d9a-98ff-d57824eb468f"
+    },
+    {
+      "position": "test",
+      "company": "test",
+      "location": "test",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "id": "fd1f6d4d-5a48-4a15-9f5a-bef964f8e1c5"
+    },
+    {
+      "position": "EWFWEF",
+      "company": "WEF",
+      "location": "WEF",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "id": "d7540731-4bd1-424f-a560-1fa72a007892"
+    },
+    {
+      "position": "test",
+      "company": "test",
+      "location": "test",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "id": "4ded5645-44d7-4434-85ce-faba0879b0fd"
+    },
+    {
+      "position": "test",
+      "company": "test",
+      "location": "test",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "id": "72d93f7e-bd84-4135-abdb-0721fb113f2c"
+    }
+  ]
+}
